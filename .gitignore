@@ -1,0 +1,3 @@
+# ignore ds store files and data folders
+.DS_Store
+data/
